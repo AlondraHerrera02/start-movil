@@ -1,0 +1,66 @@
+.section{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0.5rem;
+}
+/*-- BIOGRAFIA--*/
+.perfil_izquieda{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+}
+
+.perfil_izquieda img{
+    width: 20rem;
+    height: auto;
+    
+}
+.perfil_derecha{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5rem;
+}
+
+.perfil_izquieda h2{
+    font-size: 4rem;
+    text-align: center;
+}
+
+.perfil_izquieda span{
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.cajaBotones li{
+    font-size: 2rem;
+    margin-top: 10rem;
+}
+
+.Cont_Biografia h2{
+    font-size: 3rem;
+}
+.Cont_Biografia p{
+    font-size: 2.3rem;
+}
+
+.Cont_Biografia li{
+    font-size: 2rem;
+}
+/*-- PROYECTOS --*/
+
+.Cont_proyectos div{
+ width: 20rem;
+ height: 20rem;
+ margin-top: 8.5rem;
+}
+.Cont_proyectos p{
+    font-size: 2.5rem;
+    margin-top: 0%;
+    text-align: center;
+   
+}
+.Cont_proyectos{
+    height: 98rem;
+
+}
